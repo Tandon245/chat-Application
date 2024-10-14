@@ -55,6 +55,8 @@ public class Users {
     private Status statusId;
 
 
+    @Column
+    private String hashCode;
 
 }
 
